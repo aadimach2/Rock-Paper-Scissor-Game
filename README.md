@@ -1,6 +1,6 @@
-# Rock-Paper-Scissor-Game
+#Rock-Paper-Scissor-Game
 
-##Demo
+## Demo
 
 
 [Click here to view the Demo](https://aadimach2.github.io/Rock-Paper-Scissor-Game/)
